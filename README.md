@@ -1,5 +1,8 @@
 ### Hi there 👋 i am Mananjay !!
 
+- 🔭 I’m currently working on Spring Boot Application.
+- 🌱 I’m currently learning Spring Microservices
+
 <!--
 **mananjay21/mananjay21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
